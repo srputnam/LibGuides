@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bootstrap Example</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+
+  <body>
+
+  <!--begin copy here-->
+
+    <div id="standards" class="container-fluid">
+      <h2>Standards</h2>
+        <p>A standard is defined by the National Standards Policy Advisory Committee as:
+          <blockquote> "A prescribed set of rules, conditions, or requirements concerning definitions of terms; classification of components; specification of materials, performance, or operations; delineation of procedures; or measurement of quantity and quality in describing materials, products, systems, services, or practices."
+          </blockquote>
+          Four (4) sets of standards are available to UF-affiliated patrons:
+        </p>
+
+        <div class="panel-group">
+
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <a href="http://ieeexplore.ieee.org/browse/standards/collection/ieee" target="_blank">IEEE Standards
+              </a>
+            </div>
+            <div class="panel-footer">
+              <a href="#standard4" data-toggle="tooltip" data-placement="bottom" title="Institute of Electrical and Electronics Engineers">IEEE</a> standards are available through IEEExplore along with other scholarly and technical literature such as peer-reviewed journal articles, conference proceedings, and technical reports.
+            </div>
+          </div><!--IEEE-->
+
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <a href="http://compass.astm.org/" target="_blank">ASTM Standards
+              </a>
+            </div>
+            <div class="panel-footer">
+                Print versions of the 2012 Annual Book of <a href="#standard4" data-toggle="tooltip" data-placement="bottom" title="ASTM International">ASTM
+                </a> Standards are in the Science Library (main floor) TA 401 .A653 as well as 2009 and 2006 sets (4th floor). Many older ASTM standards can be retrieved from storage.
+            </div>
+          </div><!--ASTM-->
+
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <a href="http://knovel.com/web/portal/browse/display?_EXT_KNOVEL_DISPLAY_bookid=1777&VerticalID=0" target="_blank">2007 ASME Boiler and Pressure Vessel Code, Section II - Materials
+              </a>
+            </div>
+          </div><!--ASME-->
+
+          <div id="standard4" class="panel panel-default">
+            <div class="panel-body">
+              <a href="http://www.ansi.org/education_trainings/university_outreach.aspx?menuid=9" target="_blank">ANSI University Outreach Program for ISO and IEC Standards
+              </a>
+            </div>
+            <div class="panel-footer">ANSI makes available complimentary copies of
+              <a href="#standard4" data-toggle="tooltip" data-placement="bottom" title="International Organization of Standardization">ISO</a>
+                and
+              <a href="#standard4" data-toggle="tooltip" data-placement="bottom" title="International Electrotechnical Commission">IEC</a>
+                standards to individual professors for use in their classrooms.  Instructors must request from
+              <a href="mailto:training@ansi.org">training@ansi.org.</a>
+            </div>
+          </div><!--ANSI-->
+
+          <div class="panel panel-default">
+            <div class="panel-body">Tell me more about
+              <a href="http://guides.uflib.ufl.edu/standards" target="_blank">Standards</a>
+            </div>
+          </div><!--more info-->
+          
+          <script>
+            $(document).ready(function(){
+            $('[data-toggle="tooltip"]').tooltip();
+            });
+          </script>
+
+    </div>
+
+  <!--end copy here-->
+
+  </body>
+</html>
