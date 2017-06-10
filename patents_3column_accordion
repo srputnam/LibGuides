@@ -13,79 +13,83 @@
 <!--Copy below here-->
 
     <div id="patents" class="container-fluid">
-    	<h2>Patents</h2>
-    		<p>A patent for an invention is the grant of a property right to the inventor.</p>
-        <form action="http://patents.google.com" class="searchform" method="get" name="searchform" target="_blank">
+      <h2>Patents</h2>
+        <p>A patent for an invention is the grant of a property right to the inventor.</p>
+
+          <form action="http://patents.google.com" class="searchform" method="get" name="searchform" target="_blank">
           <input autocomplete="on" class="form-controls search" name="q" placeholder="Search Google Patents" required="required"  type="text">
-          <button class="button" type="submit">Search</button>
+          <button type="button" class="btn btn-default">
+            <span class="glyphicon glyphicon-search"></span> Search
+          </button>
+
         </form>
+    </div>
+    <br>
+    <div class="container-fluid">
         <p>There are 3 types of patents:</p>
     </div>
 
-    <div class="panel-group" id="accordion">
 
-      <div class="col-sm-4">
-    		<div class="panel panel-info">
-    			<div data-toggle="collapse" data-parent="#accordion" data-target="#collapse20" class="panel-heading">
-            <h4 class="panel-title">
-              <a>Utility</a>
-            </h4>
+    <div class="panel-group" id="accordion">
+    <div class="col-sm-4">
+    <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse20" class="panel-heading">
+        <h4 class="panel-title">
+          <a>Utility</a>
+        </h4>
+      </div>
+        <div id="collapse20" class="panel-collapse collapse in">
+          <div class="panel-body">
+            Utility patents may be granted to anyone who invents or discovers any new and useful process, machine, article of manufacture, or composition of matter, or any new and useful improvement thereof.
           </div>
-        		<div id="collapse20" class="panel-collapse collapse in">
-            	<div class="panel-body">
-    						Utility patents may be granted to anyone who invents or discovers any new and useful process, machine, article of manufacture, or composition of matter, or any new and useful improvement thereof.
-    					</div>
-          	<div class="panel-footer">
-    					Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/nonprovisional-utility-patent" target="_blank">utility patents</a>.
-    				</div>
-        	</div>
+        <div class="panel-footer">
+          Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/nonprovisional-utility-patent" target="_blank">utility patents</a>.
         </div>
       </div>
-
-    	<div class="col-sm-4">
-      	<div class="panel panel-info">
-        	<div data-toggle="collapse" data-parent="#accordion" data-target="#collapse21" class="panel-heading">
-        		<h4 class="panel-title">
-          		<a>Design</a>
-    				</h4>
-        	</div>
-        	<div id="collapse21" class="panel-collapse collapse">
-          	<div class="panel-body">
-    					Design patents may be granted to anyone who invents a new, original, and ornamental design for an article of manufacture.
-    				</div>
-    				<div class="panel-footer">
-    					Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/design-patent-application-guide" target="_blank">design patents</a>.
-    				</div>
-        	</div>
-    		</div>
-    	</div>
-
-    	<div class="col-sm-4">
-        <div class="panel panel-info">
-          <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse22" class="panel-heading">
-          	<h4 class="panel-title">
-            	<a>Plant</a>
-            </h4>
-          </div>
-          <div id="collapse22" class="panel-collapse collapse">
-          	<div class="panel-body">Plant patents may be granted to anyone who invents or discovers and asexually reproduces any distinct and new variety of plant.</div>
-          		<div class="panel-footer">
-    						Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/general-information-about-35-usc-161" target="_blank">plant patents</a>.</div>
-        			</div>
-        		</div>
-    			</div>
-    		</div>
-      </div>
-
-    	<div class="panel panel-info">
-        <div class="col-sm-12">
-          <div class="panel-body">Tell me more about <a href="http://guides.uflib.ufl.edu/patents" target="_blank">Patents</a>.
-    			</div>
-      	</div>
-      </div>
-
+    </div>
     </div>
 
+    <div class="col-sm-4">
+    <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse21" class="panel-heading">
+        <h4 class="panel-title">
+          <a>Design</a>
+        </h4>
+      </div>
+      <div id="collapse21" class="panel-collapse collapse">
+        <div class="panel-body">
+          Design patents may be granted to anyone who invents a new, original, and ornamental design for an article of manufacture.
+        </div>
+        <div class="panel-footer">
+          Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/design-patent-application-guide" target="_blank">design patents</a>.
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <div class="col-sm-4">
+    <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse22" class="panel-heading">
+        <h4 class="panel-title">
+          <a>Plant</a>
+        </h4>
+      </div>
+      <div id="collapse22" class="panel-collapse collapse">
+        <div class="panel-body">Plant patents may be granted to anyone who invents or discovers and asexually reproduces any distinct and new variety of plant.</div>
+          <div class="panel-footer">
+            Tell me more about <a href="https://www.uspto.gov/patents-getting-started/patent-basics/types-patent-applications/general-information-about-35-usc-161" target="_blank">plant patents</a>.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <br>
+    <div class="container-fluid">
+    <div class="panel panel-default">
+      <div class="panel-body">Tell me more about <a href="http://guides.uflib.ufl.edu/patents" target="_blank">Patents</a>.
+      </div>
+    </div>
+    </div>
 <!--end copy here-->
 
   </body>
