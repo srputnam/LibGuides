@@ -18,7 +18,7 @@
 
           <form action="http://patents.google.com" class="searchform" method="get" name="searchform" target="_blank">
           <input autocomplete="on" class="form-controls search" name="q" placeholder="Search Google Patents" required="required"  type="text">
-          <button type="button" class="btn btn-default">
+          <button type="submit" class="btn btn-default">
             <span class="glyphicon glyphicon-search"></span> Search
           </button>
 
