@@ -7,4 +7,4 @@ To Do: <br>
 <s>Add Intro</s><br>
 <s>Fix search button</s><br>
 Add glyphicon to accordions<br>
-</s>Hide navbar on mobile .hidden-xs</s>
+<s>Hide navbar on mobile .hidden-xs</s>
