@@ -6,4 +6,5 @@ To Do: <br>
 Fix affix-top issue<br>
 <s>Add Intro</s><br>
 <s>Fix search button</s><br>
-Add glyphicon to accordions
+Add glyphicon to accordions<br>
+Hide navbar on mobile .hidden-xs
