@@ -1,0 +1,18 @@
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="70">
+
+<nav class="hidden-xs" id="myScrollspy">
+  
+  <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="70">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#databases">Databases</a></li>
+        <li><a href="#books">Books and E-Books</a></li>
+        <li><a href="#standards">Standards</a></li>
+        <li><a href="#patents">Patents</a></li>
+        <li><a href="#dissertations">Dissertations and Theses</a></li>
+        <li><a href="#researchconduct">Research Conduct</a></li>
+        <li><a href="#faqs">FAQs</a></li>        
+        <li><a href="#contactus">Contact Us</a></li>
+      </ul>
+    </nav>
+
+</body>
