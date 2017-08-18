@@ -13,24 +13,27 @@
 
     <!--begin copy here-->
 
-    <nav class="navbar navbar-inverse navbar-fixed-bottom">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#">MAE LibGuide</a>
-        </div>
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#databases">Databases</a></li>
-          <li><a href="#books">Books and E-Books</a></li>
-          <li><a href="#standards">Standards</a></li>
-          <li><a href="#patents">Patents</a></li>
-          <li><a href="#disserations">Dissertations</a></li>
-          <li><a href="#researchconduct">Research Conduct</a></li>
-          <li><a href="#faqs">FAQs</a></li>
-        </ul>
-      </div>
+    <body data-spy="scroll" data-target="#myScrollspy" data-offset="70">
+
+<nav class="hidden-xs" id="myScrollspy">
+  
+  <ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="70">
+        <li class="active"><a href="#">Librarians</a></li>
+        <li><a href="#annotations">Annotations</a></li>        
+        <li><a href="#credible">Credible?</a></li>      
+        <li><a href="#databases">Databases</a></li>      
+        <li><a href="#patents">Patents</a></li>
+        <li><a href="#proforgs">Professional Organizations</a></li>
+        <li><a href="#researchopportunities">Research Opportunities</a></li>
+        <li><a href="#scholarlylit">Scholarly Literature</a></li>
+        <li><a href="#standards">Standards</a></li>
+        <li><a href="#techreports">Technical Reports</a></li>
+        <li><a href="#tradepubs">Trade Publications</a></li>        
+        <li><a href="#videos">Videos</a></li>
+      </ul>
     </nav>
 
+</body>
     <!--end copy here-->
 
   </body>
