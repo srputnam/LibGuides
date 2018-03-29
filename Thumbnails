@@ -1,0 +1,60 @@
+<div class="row">
+  
+<div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://libapps.s3.amazonaws.com/accounts/30365/images/oculus.jpeg" alt="Oculus Rift">
+      <div class="caption">
+        <h3>Oculus Rift</h3>
+        <p>A VR system available for 4-hour loans on the Oculus stations in Made@UF. Comes with Oculus Touch controllers.</p>
+        <p><a href="http://uf.catalog.fcla.edu/permalink.jsp?20UF033326710" class="btn btn-primary" role="button">Available?</a> <a href="#developing" class="btn btn-default" role="button">Develop!</a></p>
+      </div>
+    </div>
+</div>
+
+  <div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+      <img src="https://libapps.s3.amazonaws.com/accounts/30365/images/htcvive.jpg" alt="HTC Vive">
+      <div class="caption">
+        <h3>HTC Vive</h3>
+        <p>A VR system available for 4-hour loans on the Vive stations in Made@UF.</p>
+        <p><a href="http://uf.catalog.fcla.edu/permalink.jsp?20UF035621509" class="btn btn-primary" role="button">Available?</a> <a href="#developing" class="btn btn-default" role="button">Develop!</a></p>
+      </div>
+    </div>
+</div>
+  
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail">
+      <img src="https://libapps.s3.amazonaws.com/accounts/30365/images/samsung_gear_vr.jpg" alt="Samsung Gear VR">
+      <div class="caption">
+        <h3>Samsung Gear VR</h3>
+        <p>A VR headset available for a 3-day loan. This device can leave the building. Must provide compatible phone to use.</p>
+        <p><a href="http://uf.catalog.fcla.edu/permalink.jsp?20UF035698014" class="btn btn-primary" role="button">Available?</a> <a href="#developing" class="btn btn-default" role="button">Develop!</a></p>
+      </div>
+    </div>
+</div>
+
+</div>
+
+<div class="row">
+<div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://libapps.s3.amazonaws.com/accounts/30365/images/googledaydream.jpeg" alt="Google Daydream">
+      <div class="caption">
+        <h3>Google Daydream</h3>
+        <p>A VR headset available for a 3-day loan. This device can leave the building. Must provide compatible phone to use.</p>
+        <p><a href="http://uf.catalog.fcla.edu/permalink.jsp?20UF035698007" class="btn btn-primary" role="button">Available?</a> <a href="#developing" class="btn btn-default" role="button">Develop!</a></p>
+      </div>
+    </div>
+</div>
+<div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="https://libapps.s3.amazonaws.com/accounts/30365/images/microsofthololens.jpg" alt="Microsoft Hololens">
+      <div class="caption">
+        <h3>Microsoft Hololens</h3>
+        <p>A mixed reality headset available for 4-hour checkout. This device can leave the building.</p>
+        <p><a href="http://uf.catalog.fcla.edu/permalink.jsp?20UF035333281" class="btn btn-primary" role="button">Available?</a> <a href="#developing" class="btn btn-default" role="button">Develop!</a></p>
+      </div>
+    </div>
+</div>
+
+</div>
