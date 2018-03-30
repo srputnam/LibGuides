@@ -1,0 +1,118 @@
+<div id="databases" class="container-fluid">
+<h2>Databases</h2>
+
+<p>These databases contain peer-reviewed journals, technical reports, conference proceedings, and several other forms of credible, scholarly literature. 
+  <div class="panel-group" id="accordion">
+
+    <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse11" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://www.engineeringvillage.com/search/quick.url?CID=quicksearch&database=1" target="_blank">Compendex </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse11" class="panel-collapse collapse in">
+        <div class="panel-body">Covers significant engineering and technical literature from journals, technical reports, and conference proceedings and papers. Includes Compendex and the Inspec Archive (1898-1969).</div>
+      </div>
+    </div>
+
+    <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse12" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://ieeexplore.ieee.org/"  target="_blank">IEEExplore </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse12" class="panel-collapse collapse">
+        <div class="panel-body">Provides indexing and full-text access to IEEE and IEE transactions, journals, magazines and conference proceedings published since 1988 and all current IEEE standards. Access to the full text is restricted to current UF students/staff/faculty.</div>
+      </div>
+    </div>
+  
+  <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse13" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="http://guides.uflib.ufl.edu/Web_of_Science"  target="_blank">Web of Science </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse13" class="panel-collapse collapse">
+        <div class="panel-body">Access the world’s leading scholarly literature in the sciences from 1900-present.</div>
+      </div>
+    </div>
+   
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse18" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://www.sciencedirect.com/"  target="_blank">Science Direct </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse18" class="panel-collapse collapse">
+        <div class="panel-body">ScienceDirect is a leading full-text scientific database offering journal articles and book chapters from more than 2,500 peer-reviewed journals and more than 11,000 books.</div>
+      </div>
+    </div>
+
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse14" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://www.ncbi.nlm.nih.gov/sites/entrez?holding=ufhsclib"  target="_blank">MEDLINE (via PubMed) </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse14" class="panel-collapse collapse">
+        <div class="panel-body">PubMed comprises more than 26 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.</div>
+      </div>
+    </div>
+
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse15" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://arc.aiaa.org/"  target="_blank">American Institute of Aeronautics and Astronautics Journals Archive </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse15" class="panel-collapse collapse">
+        <div class="panel-body">Use this to search all American Institute of Aeronautics and Astronautics documents. We have electronic subscriptions to many of the journals. If you find something you want that we don't own, simply request it through interlibrary loan.</div>
+      </div>
+    </div>
+    
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse16" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://aerade.cranfield.ac.uk/reports.html"  target="_blank">AERADE Reports Archive </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse16" class="panel-collapse collapse">
+        <div class="panel-body">Incorporates more than ten thousand, historically significant, digitised reports from: 1) the Aeronautical Research Council (ARC) - the principal agency in Great Britain with a major output of reports on matters aeronautical, which existed from 1909-1979, and published reports until 1980, and 2) The National Advisory Committee for Aeronautics (NACA) - chartered in 1915 and operational from 1917-1958. The National Aeronautics and Space Act of 1958 created NASA from NACA.</div>
+      </div>
+    </div>
+
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse17" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://login.lp.hscl.ufl.edu/login?URL=http://adswww.harvard.edu/"  target="_blank">NASA Astrophysics Data System Journals </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse17" class="panel-collapse collapse">
+        <div class="panel-body">A NASA-funded project which maintains four bibliographic databases containing more than 4.2 million records: Astronomy and Astrophysics, Instrumentation, Physics and Geophysics, and preprints in Astronomy.</div>
+      </div>
+    </div>
+
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse19" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://ntrl.ntis.gov/NTRL/"  target="_blank">National Technical Reports Library </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse19" class="panel-collapse collapse">
+        <div class="panel-body">The National Technical Reports Library (NTRL) was created by the National Technical Information Service (NTIS), an agency of the U.S. Department of Commerce, as a means of disseminating scientific and technical information produced by federal and international sources.</div>
+      </div>
+    </div>
+
+ <div class="panel panel-info">
+      <div data-toggle="collapse" data-parent="#accordion" data-target="#collapse20" class="panel-heading">
+        <h4 class="panel-title">
+          <a href="https://engrxiv.org/" target="_blank">engrXiv </a><span class="glyphicon glyphicon-menu-down"></span>
+        </h4>
+      </div>
+      <div id="collapse20" class="panel-collapse collapse">
+        <div class="panel-body">engrXiv (engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. engrXiv was launched in beta in July 2016 under the direction of Devin R. Berg, associate professor of mechanical engineering at the University of Wisconsin-Stout, and in partnership with the Center for Open Science.</div>
+      </div>
+    </div>
+
+</div> 
+</div>
